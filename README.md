@@ -12,7 +12,7 @@
             <div id="blue_bar">
                 <div style="width:800px; margin:auto; font-size:30px;">
                     Phatsakon Suwanmanee <br><br>
-                    <img src="00003.jpg" style=" width: 420px; height: 240px; 
+                    <img src="00003.JPG" style=" width: 420px; height: 240px; 
                             border:solid 2px white;">
                 </div>
             </div>
